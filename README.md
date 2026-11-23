@@ -1,4 +1,4 @@
-# Linux-IPC-Semaphores
+<img width="735" height="542" alt="image" src="https://github.com/user-attachments/assets/d8608736-9d3c-442b-8a41-de670b234d11" /># Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
 # AIM:
@@ -21,19 +21,11 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
-
-
+~~~
 
 
 ## OUTPUT
-$ ./sem.o 
-
-
-$ ipcs
-
-
-
-
+<img width="735" height="542" alt="Screenshot 2026-11-23 142555" src="https://github.com/user-attachments/assets/9f9a21bb-9519-48f6-8bb0-81d0af07ab0a" />
 
 # RESULT:
 The program is executed successfully.
